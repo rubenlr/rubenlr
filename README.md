@@ -1,6 +1,6 @@
 ## Hi there, you are in Rúben's profile 👋
 
-- 🔭 Working as Staff Software Engineer primary with C# for backend
+- 🔭 Working as Staff Software Engineer primary with Java, Scala and C# for backend
 - 🌱 I’m currently learning python and react native
 - 👯 I’m looking to collaborate on opensource projects in C#, python or node.js
 - 💬 Ask me about whatever you want
